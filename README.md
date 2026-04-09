@@ -5,7 +5,7 @@ This repository has my solutions for the MaRS task 1
 ## What I Did
 
 ### Ubuntu & Bash
-Learned a lot about linux, used AI tools, but made sure I understood them too.
+Learned a lot about linux, used AI tools, but made sure I understood most of the commands.
 
 ---
 
@@ -13,7 +13,7 @@ Learned a lot about linux, used AI tools, but made sure I understood them too.
 
 #### 1. Coordinate Transformation
 - Converted object coordinates from camera frame to world frame  
-- Used rotation (X, Y, Z) and translation  
+- Used rotation (X, Y, Z) and translation 
 
 #### 2. Morse Code Decoder
 - Decoded Morse code into readable text using basic string matching  
@@ -25,7 +25,7 @@ Learned a lot about linux, used AI tools, but made sure I understood them too.
 - Implemented:
   - Moving Average filter (smooths data)
   - Median filter (removes spikes)  
-- Compared outputs to understand which works better  
+- Compared outputs to understand which works better, the hybrid ones work better
 
 #### 5. Manipulator Arm Problem
 - Generated valid configurations based on constraints  
@@ -42,8 +42,8 @@ Learned a lot about linux, used AI tools, but made sure I understood them too.
 ---
 
 ## Challenges Faced
-- Understanding the Linux commands took a lot of time and terminal usage was also difficult initial  
-- And few of the problems and questions were difficult
+- Understanding the Linux commands took a lot of time and terminal usage was also difficult initially  
+- And few of the other problems and questions were also difficult and required time to understand
 - Also, I didn't actually push the files, but rather added them directly, it was time comsuming, and I was in a hurry
 
 ---
