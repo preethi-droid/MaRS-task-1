@@ -33,6 +33,28 @@ Learned a lot about linux, used AI tools, but made sure I understood most of the
 
 ---
 
+## Hard Problems
+
+### 1. Arena Navigation & Shortest Path
+- Created a grid-based map using an n × n matrix  
+- Marked obstacles based on input file data  
+- Used BFS (Breadth-First Search) to find the shortest path from [0,0] to [10,10]  
+- Ensured movement only in four directions (no diagonals)  
+
+---
+
+### 2. Distance Estimation using Camera
+- Used the pinhole camera model to estimate distance  
+- Calculated focal length using field of view (FOV)  
+- Computed distance using object’s real width and perceived width  
+
+---
+
+### 3. Behavior Tree for Rover Decision Making
+- Designed a behavior tree to handle battery and navigation logic  
+- Used fallback nodes for decision making and sequence nodes for task execution  
+- Structured the rover’s actions based on conditions like battery level and obstacles  
+
 ## Approach
 - Broke each problem into smaller steps  
 - Focused on writing simple and readable code  
