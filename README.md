@@ -1,4 +1,4 @@
-# MaRS Rover Software Task 1
+# MaRS Rover Software Recruitment Task 1
 
 This repository has my solutions for the MaRS task 1
 
